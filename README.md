@@ -11,4 +11,4 @@ npm run dev
 yarn dev
 
 live link:
-https://print-manzil-jobs-test.vercel.app/
+https://print-manzil-job-test.vercel.app
